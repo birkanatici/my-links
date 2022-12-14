@@ -1,26 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Birkan Atıcı",
+  "description": "Software Engineer",
+  "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQE5ywsv2D-twg/profile-displayphoto-shrink_400_400/0/1622719386755?e=1676505600&v=beta&t=Ot7x4hJYkr1v8mt7PqD31Wk0vcpRwkCD1n_Rwts4zao",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/birkanatici",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/birkanatici",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/birkanatici",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/birkanatici",
       "icon": "instagram"
     }
   ]
